@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋,I'm Liza
 
 <!--
 **Elsiesmile/elsiesmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm FrontEnd Developer
+-👍 I like to write code
+-🌱 I love animals and nature
+-👩🏻‍💻 I am constantly learning something new
+-⚡ I like to write articles for https://dzen.ru/lizafrontend
+-🤝 I like to blog and support newbies in learning
+
+# Connect with me:
+
+
+

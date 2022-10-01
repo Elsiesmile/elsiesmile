@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👍 I like to write code
 - 🌱 I love animals and nature
 - 👩🏻‍💻 I am constantly learning something new
-- ⚡ I like to write articles for https://dzen.ru/lizafrontend
+- ⚡ I like to write articles for https://vc.ru/s/1259896-front-end-info
 - 🤝 I like to blog and support newbies in learning
 
 
@@ -59,3 +59,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+<details>
+  <summary>:zap: Statistics:</summary>
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elsiesmile&show_icons=true" />
+</details>

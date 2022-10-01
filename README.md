@@ -62,6 +62,5 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Statistics:</summary>
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elsiesmile&show_icons=true" />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsiesmile&langs_count=8&layout=compact" />
 </details>

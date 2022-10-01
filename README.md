@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/elizaveta-ivanova-31a246251/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26px" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/liza.frontend/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26px" alt="instagram"/>
   </a>
   <a href="https://t.me/lizaafrontend">
-    <img src="https://cdn-icons-png.flaticon.com/512/5728/5728145.png" alt="Telegram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5728/5728145.png" width="26px" alt="Telegram"/>
 	  <a href="https://vk.com/elsiesmile2288">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" alt="Vk"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" width="26px" alt="Vk"/>
   </a>
 </div>
 

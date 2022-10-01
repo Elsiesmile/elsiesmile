@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###  I'm FrontEnd Developer
+
+![](https://komarev.com/ghpvc/?username=Elsiesmile)
+
 - 👍 I like to write code
 - 🌱 I love animals and nature
 - 👩🏻‍💻 I am constantly learning something new

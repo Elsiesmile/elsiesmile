@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Liza
+### Hi there 👋, I'm Liza
 
 <!--
 **Elsiesmile/elsiesmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # I'm FrontEnd Developer
--👍 I like to write code
--🌱 I love animals and nature
--👩🏻‍💻 I am constantly learning something new
--⚡ I like to write articles for https://dzen.ru/lizafrontend
--🤝 I like to blog and support newbies in learning
+- 👍 I like to write code
+- 🌱 I love animals and nature
+- 👩🏻‍💻 I am constantly learning something new
+- ⚡ I like to write articles for https://dzen.ru/lizafrontend
+- 🤝 I like to blog and support newbies in learning
+
 
 # Connect with me:
 [<img align="left" alt="IvanovaLiza|linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 </br>
 </br>
-[linkedin]:https://www.linkedin.com/in/elizaveta-ivanova-31a246251/
-[instagram]:https://www.instagram.com/liza.frontend/
-[telegram]:https://t.me/lizaafrontend
+[linkedin]: https://www.linkedin.com/in/elizaveta-ivanova-31a246251/
+[instagram]: https://www.instagram.com/liza.frontend/
+[telegram]: https://t.me/lizaafrontend
 [vk]: https://vk.com/elsiesmile2288

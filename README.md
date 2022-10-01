@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  I'm FrontEnd Developer
-
 ![](https://komarev.com/ghpvc/?username=Elsiesmile)
+## I'm FrontEnd Developer
 
 - 👍 I like to write code
 - 🌱 I love animals and nature
@@ -27,10 +26,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="IvanovaLiza | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"=https://www.linkedin.com/in/elizaveta-ivanova-31a246251/)](https://www.linkedin.com/in/elizaveta-ivanova-31a246251/)
 [<img align="left" alt="IvanovaLiza | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="IvanovaLiza | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt ="IvanovaLiza | telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5728/5728145.png"/>][telegram]
+
 <br />
 
 ###  Languages and Tools:
@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 </br>
 </br>
-[linkedin]: https://www.linkedin.com/in/elizaveta-ivanova-31a246251/
 [instagram]: https://www.instagram.com/liza.frontend/
 [telegram]: https://t.me/lizaafrontend
 [vk]: https://vk.com/elsiesmile2288

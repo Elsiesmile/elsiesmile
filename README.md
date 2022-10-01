@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👍 I like to write code
 - 🌱 I love animals and nature
 - 👩🏻‍💻 I am constantly learning something new
-- ⚡ I like to write articles for https://vc.ru/s/1259896-front-end-info
+- ⚡ I like to write articles for https://t.me/lizafrontend
 - 🤝 I like to blog and support newbies in learning
 
 
